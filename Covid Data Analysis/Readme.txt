@@ -9,4 +9,5 @@ https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_d
 Recovered:
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
 
-The data set contains the summary table of confirmed, deaths and recovered cases of covid-19.
+The data set contains the summary table of confirmed, deaths and recovered cases of covid-19. 
+
